@@ -3,8 +3,8 @@
 *.sln
 
 #####################
-Library/
+/Library/
 .vs/
-Temp/
+/Temp/
 obj/
-export/
+/export/
