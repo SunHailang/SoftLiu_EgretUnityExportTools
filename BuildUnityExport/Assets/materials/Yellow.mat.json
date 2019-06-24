@@ -1,0 +1,29 @@
+{
+    "asset": {
+        "version": 2
+    },
+    "materials": [
+        {
+            "extensions": {
+                "KHR_techniques_webgl": {
+                    "values": {
+                        "map": "Library/Default_Particle.image.json"
+                    },
+                    "technique": "builtin/meshbasic.shader.json"
+                },
+                "paper": {
+                    "renderQueue": 2000
+                }
+            }
+        }
+    ],
+    "extensionsRequired": [
+        "KHR_techniques_webgl",
+        "paper"
+    ],
+    "extensionsUsed": [
+        "KHR_techniques_webgl",
+        "paper"
+    ],
+    "version": 4
+}
